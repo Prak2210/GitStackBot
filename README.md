@@ -1,4 +1,4 @@
-# CSC510-Project
+# GitStackBot
 CSC 510-Project
 
 Team: <br/>
